@@ -7,7 +7,7 @@
 🎓 &nbsp;I'm currently studying Honours Bachelor of Software Development at Seneca College.        
 🌱 &nbsp;I'm specifically interested in the project managment side of development.\
 ⚡ &nbsp;Outside of school, I like soccer, basketball and travelling.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+💬 &nbsp;Feel free to reach out to me for some interesting discussions.\
 ✉️ &nbsp;You can shoot me an email at sjpatel359@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.linkedin.com/in/sahil-patel-1009/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAADIPA90BRiVHadEVf-hdPXLZZgNdidIpEFk,1613058992627)/) for more details about me. I'm open to feedback and suggestions!
 
