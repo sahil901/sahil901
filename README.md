@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;I like to explore new technologies and develop programs to further solidfy my programming skills.\
 🎓 &nbsp;I'm currently studying Honours Bachelor of Software Development at Seneca College.        
-🌱 &nbsp;I'm specifically interested in the project managment side of development.\
+🌱 &nbsp;I'm specifically interested in project managment.\
 ⚡ &nbsp;Outside of school, I like soccer, basketball and travelling.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussions.\
 ✉️ &nbsp;You can shoot me an email at sjpatel359@gmail.com! I'll try to respond as soon as I can.\
