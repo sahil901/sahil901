@@ -3,10 +3,10 @@
 <h2>👋 Welcome to my Github, I'm Sahil!</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp;I like to explore new technologies and develop programs to further solidfy my programming skills.\
-🎓 &nbsp;I'm currently studying Honours Bachelor of Software Development at Seneca College.        
-🌱 &nbsp;I'm specifically interested in project managment and coordination.\
-⚡ &nbsp;Outside of school, I like soccer, basketball and travelling.\
+💡 &nbsp;I like to explore new technologies and develop programs to further solidfy my programming skills, while also deeply exploring project management and coordination.\
+🎓 &nbsp;I'm currently pursing my Masters of Science in Project Management at New York University.        
+🌱 &nbsp;I've recently completed my undergraduate degree in Honours Bachelor of Software Development at Seneca College.\
+⚡ &nbsp;Outside of school, I like soccer, entrepreneurship and travelling.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussions.\
 ✉️ &nbsp;You can shoot me an email at sjpatel359@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1uegPrdpM0Bjx6yNJIOXKNQv8c-FzXoHq/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
