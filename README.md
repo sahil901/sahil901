@@ -8,7 +8,7 @@
 🌱 &nbsp;I've recently completed my undergraduate degree in Honours Bachelor of Software Development at Seneca College.\
 ⚡ &nbsp;Outside of school, I like soccer, entrepreneurship and travelling.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussions.\
-✉️ &nbsp;You can shoot me an email at sjpatel359@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at sjp9494@nyu.edu! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1uj7ZyAsXIFcCJ5kbdKUIkRIAnoJg_L4n/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
